@@ -1,0 +1,9 @@
+.*
+!.gitattributes
+!.gitignore
+
+/build
+/*/build
+/out
+/*/out
+

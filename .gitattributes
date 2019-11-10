@@ -1,0 +1,7 @@
+
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+*.kts text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
